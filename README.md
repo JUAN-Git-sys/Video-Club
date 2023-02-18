@@ -1,6 +1,6 @@
 # VIDEO-CLUB
 
-Sistema para administrar un Video Club
+Sistema para administrar un Video Club.... modificado desde GitHub
 
 ## Getting Started
 
